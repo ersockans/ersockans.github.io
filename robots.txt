@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ersockans.github.io/ersockans.txt.gz
+Sitemap: https://ersockans.github.io/app/ersockans.txt.gz
+Sitemap: https://ersockans.github.io/assets/ersockans.txt.gz
+Sitemap: https://ersockans.github.io/css/ersockans.txt.gz
+Sitemap: https://ersockans.github.io/includes/ersockans.txt.gz
+Sitemap: https://ersockans.github.io/item/ersockans.txt.gz
+Sitemap: https://ersockans.github.io/src/ersockans.txt.gz
